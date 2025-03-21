@@ -24,7 +24,7 @@ This project analyzes **3 key macronutrients (carbs, protein, fat)** in common f
 ## 🛠️ Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/AlexStcR/nutrition-analysis.git
+   git clone https://github.com/AlexStcR/Food_analysis.git
 
 
    pip install -r requirements.txt
